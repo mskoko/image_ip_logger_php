@@ -1,1 +1,1 @@
-# ip_logger_mskokome
+# Logging ip by image preview
